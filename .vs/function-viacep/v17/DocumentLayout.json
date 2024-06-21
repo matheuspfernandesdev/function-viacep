@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\MY THINGS\\Documentos\\GitHub\\binaryten-functionviacep\\function-viacep\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8500C59A-9924-48B1-A4B2-60A32868280E}|function-viacep\\function-viacep.csproj|d:\\my things\\documentos\\github\\binaryten-functionviacep\\function-viacep\\function-viacep\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8500C59A-9924-48B1-A4B2-60A32868280E}|function-viacep\\function-viacep.csproj|solutionrelative:function-viacep\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8500C59A-9924-48B1-A4B2-60A32868280E}|function-viacep\\function-viacep.csproj|d:\\my things\\documentos\\github\\binaryten-functionviacep\\function-viacep\\function-viacep\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8500C59A-9924-48B1-A4B2-60A32868280E}|function-viacep\\function-viacep.csproj|solutionrelative:function-viacep\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8500C59A-9924-48B1-A4B2-60A32868280E}|function-viacep\\function-viacep.csproj|d:\\my things\\documentos\\github\\binaryten-functionviacep\\function-viacep\\function-viacep\\functionlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8500C59A-9924-48B1-A4B2-60A32868280E}|function-viacep\\function-viacep.csproj|solutionrelative:function-viacep\\functionlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "D:\\MY THINGS\\Documentos\\GitHub\\binaryten-functionviacep\\function-viacep\\function-viacep\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "function-viacep\\Properties\\serviceDependencies.json",
+              "ToolTip": "D:\\MY THINGS\\Documentos\\GitHub\\binaryten-functionviacep\\function-viacep\\function-viacep\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "function-viacep\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T10:18:51.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\MY THINGS\\Documentos\\GitHub\\binaryten-functionviacep\\function-viacep\\function-viacep\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "function-viacep\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\MY THINGS\\Documentos\\GitHub\\binaryten-functionviacep\\function-viacep\\function-viacep\\Properties\\launchSettings.json",
+              "RelativeToolTip": "function-viacep\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T10:18:45.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "function-viacep",
               "DocumentMoniker": "D:\\MY THINGS\\Documentos\\GitHub\\binaryten-functionviacep\\function-viacep\\function-viacep\\function-viacep.csproj",
               "RelativeDocumentMoniker": "function-viacep\\function-viacep.csproj",
@@ -39,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FunctionLocation.cs",
               "DocumentMoniker": "D:\\MY THINGS\\Documentos\\GitHub\\binaryten-functionviacep\\function-viacep\\function-viacep\\FunctionLocation.cs",
               "RelativeDocumentMoniker": "function-viacep\\FunctionLocation.cs",
               "ToolTip": "D:\\MY THINGS\\Documentos\\GitHub\\binaryten-functionviacep\\function-viacep\\function-viacep\\FunctionLocation.cs",
               "RelativeToolTip": "function-viacep\\FunctionLocation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T11:29:12.919Z",
               "EditorCaption": ""
